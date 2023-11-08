@@ -1,0 +1,26 @@
+{
+  "name": "Adelaide Cross",
+  "age": 44,
+  "address": {
+    "street": "Tecwoj Square",
+    "city": "Ewiorwo",
+    "state": "VT",
+    "zip": "96492"
+  },
+  "contact": {
+    "phone": "(861) 201-3430",
+    "servicePhone": "800987385"
+  },
+  "birthday": "2002-09-22T04:17:47.940Z",
+  "ip": "82.186.1.149",
+  "foo": "bar",
+  "profile": {
+    "about": "Rolioro egme pulbu cufwub zatioda en liv mivmunop waz waftenwa mivahce wubtufe. Noje muatoci welhoci sagifo leradeat losa ce sugeh navavhac rale cacwoj baj rowutkew pofu kewuvowa hu banwutbal. Wen arobuhpaz po papisak pofjimmu vamca vi ruksili rabe obe cegavep mabob nez iceanevo.",
+    "bio": "Mamvi joagazi gafdedfiw zagge ceisefow gid logawej ijta bup refil turicsi min pi sabak gulocomi ditwuwos wisab. Ere kej sukib eki wuzargop danodi pi movaf cupwav feb etabe bo ihe. Firasti iwziw puse wada ra kaozzaz gidhus fumuzdop bogza mobmulah lotcu lemdibev ugewunwo wobmaf om. Hazkofuti hefnob hizufoh nob vuifrad ili ro udomep su woupa oke gubisvug. Nuuho copmakad wajob ro tawdu ehe mag etu venfega su cuduwos racufne feehhac fiurevu. Larga kinfab suvcuttej gobib fil coloznik sondi ba rukfip ke bebpazuf fumifurik saduho kope zozce usoodo."
+  },
+  "apiKey": "f2252657cfd52f96c0cdf3b35fcdf33bfe22beee572cf7c180de836d8de7b502",
+  "currency": {
+    "code": "PGK",
+    "name": "Papua New Guinea Kina"
+  }
+}
