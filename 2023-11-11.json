@@ -1,0 +1,26 @@
+{
+  "name": "Maude Fernandez",
+  "age": 21,
+  "address": {
+    "street": "Kabulu Terrace",
+    "city": "Rijcivo",
+    "state": "WA",
+    "zip": "09287"
+  },
+  "contact": {
+    "phone": "(874) 966-9789",
+    "servicePhone": "800653489"
+  },
+  "birthday": "1964-11-18T21:57:55.912Z",
+  "ip": "98.28.200.129",
+  "foo": "bar",
+  "profile": {
+    "about": "Su lehi ce melu ac gutoj putin bavaci az belineme inawhew zad gorfu. Nawbi efsot nufjag owemufi nuscig vaokiugo ru mutdukdil utwuvlo ecpoud tum juhoc zegvadve. Gumfop avijur hoanufor asre cupticlo izubiwbo naimdi ziped gejav rob alokewek jupeb lef mav.",
+    "bio": "Is ovbugdi cebeggu da jabri nawot obsi oconoh opbu lo usuz sipvusgi wuh. Viocu dab ne go lonuzno so moghav dasirpog regez ohodul veadi febwa ceuzewo za pep. Pepce rafopip cajgov bo ikekip da muhobaucu deliw famsaga ko mig sim aju to kowof fopijnar. Geof ikiecjeg sigergi mazuh villo zevav veruho dufbuki bagno vizgalpu sone zimovico mievpof zo todo hufi bi lursauvo."
+  },
+  "apiKey": "75d384f71cf6012de93e86fa389382c8bd0545e9893afc519cfecd115f1eeaa0",
+  "currency": {
+    "code": "GHS",
+    "name": "Ghana Cedi"
+  }
+}
