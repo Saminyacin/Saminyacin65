@@ -1,0 +1,26 @@
+{
+  "name": "Rachel Potter",
+  "age": 31,
+  "address": {
+    "street": "Epla Square",
+    "city": "Mociag",
+    "state": "MA",
+    "zip": "37986"
+  },
+  "contact": {
+    "phone": "(453) 917-4221",
+    "servicePhone": "800214435"
+  },
+  "birthday": "1970-12-12T01:58:30.024Z",
+  "ip": "28.214.144.52",
+  "foo": "bar",
+  "profile": {
+    "about": "Vi fopa loduri sizupo jivciddaz epi iva pumkip decga ke ba rikme hewo ovozofitu done heh topebe. Rijujgu zak idebar luodami izagimvo cez icbo tirojuv docirvaz oh zapiibu jowamew puhnafeg fis ra cavais jarma jirdom. Peujuke debihte teraksaf kociuf ube ita suoni wi umatobuw uf lekbuujo otozem bu gadu uwo.",
+    "bio": "Fut giwkirani sa ice savwuhof kejolciw neum eco bobazum zed giwav batofu itge sauf zesidtip fucu jiko ojgu. Wew tutsupe irdado oz vazuzmi weduwren nidug efgowa kuczazu tuwja pokezez huolagi hal. Ci re huvcir osemawudi ban dalvu rapuwwa esewipeb mamu pofkumvit nesme lor cu. Ge jutokle kus wotvuk kob acalat wagecgof co ter wuufepip vuva mi sus. Alzub sinjiptib dih ce deh vaono oharih lusdomuz agusupnu ihi hemwi kagtamruv tudomha cu. Wilnab mieh gal bizce ci mudo cegev taarwi elgodmu tevfajuh pu amemozduh liara maoviele pa fo. Zop ajicutvud nud fa kaveid vuw adudut abu jouj fivof saputer havaaso horon."
+  },
+  "apiKey": "db43b09b91e923c1ffe181b230e6a9aa900b7c56209a9c3a821f3ed983bec871",
+  "currency": {
+    "code": "BRL",
+    "name": "Brazil Real"
+  }
+}
