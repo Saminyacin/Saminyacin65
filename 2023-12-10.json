@@ -1,0 +1,26 @@
+{
+  "name": "Marguerite Cox",
+  "age": 18,
+  "address": {
+    "street": "Cusni Road",
+    "city": "Besosoag",
+    "state": "MN",
+    "zip": "27385"
+  },
+  "contact": {
+    "phone": "(945) 600-5983",
+    "servicePhone": "800814474"
+  },
+  "birthday": "1986-09-13T07:29:49.852Z",
+  "ip": "119.141.127.127",
+  "foo": "bar",
+  "profile": {
+    "about": "Ban ler pidligum jecojab nehaces paucas vid edju kutun lod iresed panrunof gumtet gimur. Ma ivgehlov ni gera enauzgo pob turigev tec puphufar letet ibves cefip fucdicom ib je. Moj nidate az vafgico izazaw uduki sipe lejzefcuk uluudjo uhitila ehemolu petsole ulapas pum juzaj.",
+    "bio": "Viw sibizda kahotu utba wazduwlod jusavem fiini kimlalfa cuamja par gowbucab goro ati despupu ruktu acbej caeli ungow. Puktahu cojbacega cen midkow daj ujumo sati lubij zozogu lunpimku af ahomulgij agoto wuc le. Pitdip voliv butiwwo wav vuvhuh hozafec pida mejirob in ut mu ril ani."
+  },
+  "apiKey": "354b1a7d11107749e2dfc8ef6bbb22eeb303edc1418e25c29c38fa088ff2ad4a",
+  "currency": {
+    "code": "CVE",
+    "name": "Cape Verde Escudo"
+  }
+}
