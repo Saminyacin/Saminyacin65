@@ -1,0 +1,26 @@
+{
+  "name": "Lily Ward",
+  "age": 32,
+  "address": {
+    "street": "Uteegu Avenue",
+    "city": "Fogimiviv",
+    "state": "OR",
+    "zip": "20872"
+  },
+  "contact": {
+    "phone": "(612) 367-9208",
+    "servicePhone": "800924869"
+  },
+  "birthday": "1986-03-17T13:40:33.086Z",
+  "ip": "158.229.75.232",
+  "foo": "bar",
+  "profile": {
+    "about": "Ki dezop ted lik eranisov nofetob adiod wa rikco le gulurlik guvube habij. Cen dat sumjopo esutasa ajeciloh ze uzupug mimvioma ac wigevuka awete gu ke solil kaksun ligso udhi. Agahavi hagne evizomjo mi ruoc woihi ziogouw jupucek amad soppuj le caheton fos hofav. As ba jop todzu puwep po tasmu sozef ku jep dalmewpu hu dog oj ke wa.",
+    "bio": "De dolat tajhumu akbaogi hekbo ocole lupe gimesudik nitzofmi let jol tudcucmev sag. Meg tojuah licjivju tamugo iwozag kicnicla lamo uv abim levewhe sut kag mi itpufat. Riwit hi ohe ebegev jiruvfi focor veldefjic aw cif gu purup beve kov."
+  },
+  "apiKey": "7ecad7841e7561495476804f305170cc968ea604d4df086dfe104c262dae5040",
+  "currency": {
+    "code": "PHP",
+    "name": "Philippines Peso"
+  }
+}
