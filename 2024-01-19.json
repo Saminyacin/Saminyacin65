@@ -1,0 +1,26 @@
+{
+  "name": "Jon Becker",
+  "age": 29,
+  "address": {
+    "street": "Liwwos Grove",
+    "city": "Tozsival",
+    "state": "WA",
+    "zip": "18886"
+  },
+  "contact": {
+    "phone": "(376) 876-9398",
+    "servicePhone": "800456848"
+  },
+  "birthday": "1996-12-13T23:08:48.089Z",
+  "ip": "228.75.48.166",
+  "foo": "bar",
+  "profile": {
+    "about": "Gudlewseh afiunosod bulacef zezpachak izrad buzsuhag bozal mo epudo ogkiwfi ralora fo biprimu ijagu. Liwhefba vog hoblaj mahilap elwi zati zedicaro lab pokfo baged ogusojtat tem he horpi alzuubo afa. Vav ojaswi he ji ru wanet gomkan hezupura ba ergelu baw tige souwiuna ojotalpo puh wabdu. Zo ajgitvu cebmuc raohizib povnoh bin ih vohma gaut uzemid mu eftug se gulse. Ifiro gerpug namik zisov bare riec tat razhoduv sik girowazi uwopit popacah nuizovu ja fan lopneta micovaheg.",
+    "bio": "Bovagedu el wet vopufe dora odgi zoos he ufdowbev giakaupa kazla wuwhesrin pemroka. Li imisakos ce cam facor co gete za jegon pat zivuse hebudju wet. Van su pilotto gahsa fo ra muk ejiijaemu fafdiwive zeckiri sa fo mu akedu."
+  },
+  "apiKey": "1a0e9b3245964b0f99e0ac90ebfe6304e74b2321f7097eba5cdb05efcac6f881",
+  "currency": {
+    "code": "BAM",
+    "name": "Bosnia and Herzegovina Convertible Marka"
+  }
+}
