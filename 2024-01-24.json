@@ -1,0 +1,26 @@
+{
+  "name": "Catherine Todd",
+  "age": 41,
+  "address": {
+    "street": "Meka Street",
+    "city": "Boforagu",
+    "state": "NV",
+    "zip": "83354"
+  },
+  "contact": {
+    "phone": "(802) 859-8022",
+    "servicePhone": "800165324"
+  },
+  "birthday": "1979-04-06T19:45:44.304Z",
+  "ip": "244.146.122.207",
+  "foo": "bar",
+  "profile": {
+    "about": "Vekgofur jod turzesaz anto retewar lij uke roibcor vedhe se huuwu lepjenu. Uw le gad ivdaz velzimfe utecofe fehdu ivvi cafpilob ravciife dobvavoje wiwut vejufup zoc. Wihe kabez vus ihrezwe zacasum uhi wabmihej lecabomi ci ipivefuz ka tin bim wec hasac uvehaj olebo.",
+    "bio": "Dac ibhulzat tugekiwud baz tukisu licborzih karnisfe kioce wi pu toof wen fi reun vu nildowema vesuj. Olile zealumek diizu si lo lubceze hehufki dew bo et or pawapha kajtu na. Tike ivujuhwok lomwo pu rulza mojieh ro omobahe fit nejih radufu giidico wojobfi zedmoota acfub rop. Ga zip ewebi dipjo juw ogiuzjo goeg dehcur zar ozbo ridazo tazhoghog uf fidok nicewibu. Inaitace ur falilenek tizvu ihigakca so hajuged sika ki kogil fo la rip. Jud helve te aju ru zog todzuz ri ena ikeofuta oftekva kokmamik. Tep vezap ka ufmemmo nub caij zob aze sode ogja ki huz."
+  },
+  "apiKey": "03cadd430008000268f224477ce39535e1e761455c42e0624260e786b9abd0a7",
+  "currency": {
+    "code": "NGN",
+    "name": "Nigeria Naira"
+  }
+}
