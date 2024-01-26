@@ -1,0 +1,26 @@
+{
+  "name": "Scott Meyer",
+  "age": 25,
+  "address": {
+    "street": "Ijajep Avenue",
+    "city": "Guvumafo",
+    "state": "MI",
+    "zip": "27379"
+  },
+  "contact": {
+    "phone": "(606) 842-5999",
+    "servicePhone": "800133719"
+  },
+  "birthday": "1968-07-30T06:12:58.475Z",
+  "ip": "30.240.87.97",
+  "foo": "bar",
+  "profile": {
+    "about": "Wimal lona nagzoj dezza mi vopenfu fara ceepi lev duwopaw hu gu ewuezool cojduz. Nihwodloh juwlod wiipba osefo be egofo nuwnatoj duc degune kis heri bep ofi bozajba. Co sacegdi ta paw demeduh of hejsudid tuf ugrifi bu goni ganar. Ub rogzivtit pa aka keb eceofiver rorcoj haetoico fetelij bubupdad fupdo jofu. Arufeh ku bak ide coc mivma ore gusuznig aravib oracicmap noib neluc se berospop dib icuwa.",
+    "bio": "Sevokudi opo nalahrug afegolat zenupov ju ame taewpig irupujeg ko bambukze rec wop la powoskul mon popogag. Sat mocu ket geaklaj sirdah cun nuzitus eda fep pi ati ni lelwuaca rajci. Sit pum tuesam zeuwe wen wu tan zija pape ezecog usisi hugaf tiw. Jecen aber tow han edabooji hi saniv cahkukmuc evnur dinu lagekinu hod tokor jaj. Buag ko romriber icuegein urtapjov fajap habsu se bu rudifez paeji emcelna ciufiper get gomar. Ilkez ukikepsuh saduk hi bud ara pigonig reducom aj gip lazote we owinador owotubo pote ru."
+  },
+  "apiKey": "01ccf531a9e7d5544390b27fa6e845ba1018cfc6fa8b827529034d56f7baf16b",
+  "currency": {
+    "code": "BSD",
+    "name": "Bahamas Dollar"
+  }
+}
