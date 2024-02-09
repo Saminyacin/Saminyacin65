@@ -1,0 +1,26 @@
+{
+  "name": "Henry Hall",
+  "age": 33,
+  "address": {
+    "street": "Nacne Trail",
+    "city": "Icuzesid",
+    "state": "IA",
+    "zip": "71766"
+  },
+  "contact": {
+    "phone": "(427) 779-8422",
+    "servicePhone": "800745718"
+  },
+  "birthday": "1984-10-10T12:23:46.722Z",
+  "ip": "179.178.73.62",
+  "foo": "bar",
+  "profile": {
+    "about": "Giv woh ziv oc bidrum je ov jikoano deevanup ekeni ihbid elicaf. Dew hu owohiru ete du lahibdu iniriv ren jul pol fovesewi otoac. Kiphiugu ora ik adne gepomta wib juz pit hil sisevodu uveregat ruvbaj anjo ka kien tif. Ur ackipe sofimim ha usuvevad ja mo ib sar gin koogela inopo movolival ru mujojol fasojkev. Kueb ke casiti ponkigom soek zasar owaz oz win fola witivu topma nak buv ud ju gesofej gewedkat. Vikalaih pom juhluf uvunap ni nidvefnok caguh mogakob memila tircuga net efopi kihjiov fuffompi.",
+    "bio": "Ota zanieje nipuh vekoghe wehtedo ecucero tadik enigos bofat bif ane mevmaag kog huf. He fuhu tatuzgud go burasa vecfa ret kioze pi mi re wavvu hajij. Ro uge esi iva pogjam vesar worikcuh geb ju pobe luluz ticac kec ip. Suema mis og ho matpuebu pumisci zevniko ofabi hazokior ja ulevujih tizta hoidezu zenuz no. Ihukense acli pavazag di geropen enuru gakov soccubfac bosip ekuhewka zer ohkupva."
+  },
+  "apiKey": "1fa21cf231ca2e2bb9a0ce80844131a06e37b1f7a8b815e7a6f39274c5d378eb",
+  "currency": {
+    "code": "LYD",
+    "name": "Libya Dinar"
+  }
+}
