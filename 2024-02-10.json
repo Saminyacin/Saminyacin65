@@ -1,0 +1,26 @@
+{
+  "name": "Andrew Schwartz",
+  "age": 29,
+  "address": {
+    "street": "Daspe Lane",
+    "city": "Icasueru",
+    "state": "VA",
+    "zip": "56450"
+  },
+  "contact": {
+    "phone": "(756) 357-1918",
+    "servicePhone": "800423215"
+  },
+  "birthday": "1961-08-07T07:14:38.422Z",
+  "ip": "179.160.203.73",
+  "foo": "bar",
+  "profile": {
+    "about": "Pe akolarbe hilig us mamkuzoma vel guc lo rezduaf ozwe uz ti bowubov hojbeub duerda. Oni waki ob evbopu weluhek mo papet sugkob eb zip nimbos ocepulul miw anlihor ile. Lavhi ju ega ihwueno cula vaje ta imozobpa hazo kufuifu lekoba ehu leco abe ije ew ovo.",
+    "bio": "Vutrumhit ni bel zepu ufpej gu vuwu meapageb cozeteb arafe lan bar ujapeja guegepav dof. Wur dodorkom raj pajoje medjaz go gitetfiz aziuvpo wimwoic pokac gug vafezdi eccaczuh ih mef hieg. Mod pihina kokib kul izo ipigadu debjuuha uf zupamiw les mus it dircaej ko gosajo wav gi."
+  },
+  "apiKey": "e915b26fbe17c0fc01fb61a879e71000949aa3ed2f9b6850158b3d4244aa82af",
+  "currency": {
+    "code": "STD",
+    "name": "São Tomé and Príncipe Dobra"
+  }
+}
