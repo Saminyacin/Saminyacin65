@@ -1,0 +1,26 @@
+{
+  "name": "Mike Norman",
+  "age": 24,
+  "address": {
+    "street": "Ombu Path",
+    "city": "Ijwawuda",
+    "state": "OH",
+    "zip": "26748"
+  },
+  "contact": {
+    "phone": "(714) 269-9846",
+    "servicePhone": "800651263"
+  },
+  "birthday": "1972-05-25T00:06:37.883Z",
+  "ip": "232.58.184.95",
+  "foo": "bar",
+  "profile": {
+    "about": "Cucos we dejago pezizik ob pupha vikzo rus ri za lavesahe noguage. Mated ke acrot lehnowuv goja pa figjos jecuc um cecmaj ava jicoj bu. Puvaji ka perza taleit ugubedkon ickewaj fatdem imu vibelib abiacce wogno ur tu ecemif pe bazwew hit.",
+    "bio": "Saac ejiba demkoh ivoetosev uz zavi ujikonsak biku baj jer pit ofaheh wunzinhu pi kijjir tutben cadpi hofwul. Nip iwoceati amtoh iwip reihwit golgeftod ku pahe si itpa hudisti nojaji fajpol wapuveh tettujel. Zegukmim baguv onha ak ahtuvleb caogru hoz joen zezejdip vuvavu uba wuhfussep pumgezaw voguti upfulu. Jeet pehrum tu du epla jiebi fence nad ejfa jaf ajub nelemti."
+  },
+  "apiKey": "a1feeeaceaa3cfa0fef4652406a2f0e8b03ce3d1c1609450b0efd3b19fee5d5a",
+  "currency": {
+    "code": "JOD",
+    "name": "Jordan Dinar"
+  }
+}
