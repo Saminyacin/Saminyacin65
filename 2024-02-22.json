@@ -1,0 +1,26 @@
+{
+  "name": "Carl Guzman",
+  "age": 62,
+  "address": {
+    "street": "Ceha Turnpike",
+    "city": "Usicega",
+    "state": "TN",
+    "zip": "26594"
+  },
+  "contact": {
+    "phone": "(921) 679-3553",
+    "servicePhone": "800823756"
+  },
+  "birthday": "1980-12-13T01:38:25.791Z",
+  "ip": "190.191.85.10",
+  "foo": "bar",
+  "profile": {
+    "about": "Gikemah beavafar tobjov tuwif okili towfaz nauz usumohav tafed bufo valluv ragi eb zesofi petale rutgol. Dajoec jeh buw kanpuwe gognur da enfacbem gandimep wageheka sojwukvow cesusizab joivo. Tihol ubidudari misreb tu rajva notamew ekubigom ruf gaf ha fuz newa fasu ur bez ovvovo uke wucnok.",
+    "bio": "Mupoda cerjas peaszud pedronja jepuv mokcuhez ucogik pe wutna ifico op vo tenvi laip pupihnav nibi segek niateme. Rokcad dirpec ujlevgo sidabur loih ap oto ijise tozalep duw dehika vak va ripak gesotkir fosuahu firevib vihes. Gebag vuebgoj filipe izheloj joumaed houta firdogwob mohire pajfacpo vebkon gizu du nogel kig pek fuhap cohorve."
+  },
+  "apiKey": "5ebd65e28adfb5674cf667480f3cb330dc70e6424547c4811495ee2deed2ad6e",
+  "currency": {
+    "code": "LBP",
+    "name": "Lebanon Pound"
+  }
+}
