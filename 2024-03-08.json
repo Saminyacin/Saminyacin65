@@ -1,0 +1,26 @@
+{
+  "name": "Chester Lynch",
+  "age": 21,
+  "address": {
+    "street": "Face Place",
+    "city": "Ladwokhi",
+    "state": "NV",
+    "zip": "99920"
+  },
+  "contact": {
+    "phone": "(465) 319-3152",
+    "servicePhone": "800722611"
+  },
+  "birthday": "1998-05-07T13:59:16.982Z",
+  "ip": "254.144.98.200",
+  "foo": "bar",
+  "profile": {
+    "about": "Tabwemak zatef natisvi geec betlu wiojikug buvecet cibeti vegozsi lofiz vub fuc. Uruta dobiw juhec ki fuk pakjim cu se wik hulfu fu fehag jamdo be elti ace sohtovheh. Ciunnav su voszolcom kak vaslilpeg wojom hivab itawi zuehe reic ofeubu na merjoso kaspemsa cilu tum me keulwad.",
+    "bio": "Var va siwiv tuoca ezkuha vevut jizud lom doca kelukij mewoglop hulkuw si ug tuzro soburev. Mugvok bajikij ju con ra gezufepaf numbofo mojo iremec acma hil berer mupjamake ofa lu te cigozo bovjakeb. Togoc ritve zozo fid ji vulemca ro sabem dilil watfil azalodtol wif cosvoruc. Ja odrehob gupirupa huz buvovo ewu solhotli isucenar movep ceka dovges juj oblel."
+  },
+  "apiKey": "1eefd2d543ee119eaa177695097240323a420672c200015865159272e4b092d4",
+  "currency": {
+    "code": "DKK",
+    "name": "Denmark Krone"
+  }
+}
