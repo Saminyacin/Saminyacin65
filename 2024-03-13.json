@@ -1,0 +1,26 @@
+{
+  "name": "Rachel Ray",
+  "age": 41,
+  "address": {
+    "street": "Hodig Pass",
+    "city": "Retaluema",
+    "state": "HI",
+    "zip": "75382"
+  },
+  "contact": {
+    "phone": "(749) 990-3882",
+    "servicePhone": "800466266"
+  },
+  "birthday": "1964-01-16T23:48:00.529Z",
+  "ip": "123.44.253.118",
+  "foo": "bar",
+  "profile": {
+    "about": "Ju oveor gugivoj cud gozuj ofguv ogived sareol zokaradef lu hasacipa fij asi tah. Raja namnacfec gofo nuzak pam ebannej ucu iv gil hivi bucdehic lenes eno. Koj itaije po fuzavuz lumato ovno ifejizjo tujba casuf er tole lagji caji huwmusih. Bipasvog pegug mozuc jere faddeewe rocelaz mipmo gopnutor ma jas wadrek rir futgeeg kovo elku bil.",
+    "bio": "Ba bekavu ip hittavvat bizmo jumehca wione gekhu joat ruhpeno ketvap vewfatfik we ruat awu ozu kem hezolpug. Etpe no utiicu puj saka pesena wivevunaz tuwav ane dala vaebuvih co tagerwa mecsic moda fu gorniho isduk. Kivmape pajmimoh rasudut usa nan tecmulzuf ka idbucuc izavji piar jijvor wij finmot kil ere ofpip. Fekta ebougli jaowoze vuir giha arzuwe jo vekip vogge jolewru egulok walan nim jokcek."
+  },
+  "apiKey": "41387f2887d92dd914feceb5404768fda05a8d3b1fc90eaaf64a638e28e0c76c",
+  "currency": {
+    "code": "KRW",
+    "name": "Korea (South) Won"
+  }
+}
