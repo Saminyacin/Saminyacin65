@@ -1,0 +1,26 @@
+{
+  "name": "Richard Coleman",
+  "age": 24,
+  "address": {
+    "street": "Geshov Way",
+    "city": "Murigusi",
+    "state": "TN",
+    "zip": "00661"
+  },
+  "contact": {
+    "phone": "(732) 478-4155",
+    "servicePhone": "800596297"
+  },
+  "birthday": "1980-11-28T13:43:14.567Z",
+  "ip": "214.169.133.65",
+  "foo": "bar",
+  "profile": {
+    "about": "Revgiho ofe fuguc ho pezigu vek icukahav kuckues ewe hu kefcud me. Pimalim oc es soseano iveegu ukidit ofigipfin eta orzi to zaupuana moid hegawe. Istu tincus vojahore kesgidi dinpepa id ni lidges li jikcu cil cizkugcer wig fapicez voj madon. Dosbum cecsaj hutodo ejde im otirurfep jed unuzi ceneiha haboti cietta lefih arhutdi.",
+    "bio": "Acrudaj bu ipgi dolbo apudihmov ken luav ludupjug bodopon ra on zemja. Rukafe ekalappos subu biztam je noomla rojwas kejav ik lipmo dah gu su. Fukiug busgo huk aw mizcuf bufi gipo mujik gocaveg tiogela kilzollo luvrij dugokgo tad rim. Tilvuum umu kac kipto nemihif soni re itepusal dozzabam gig diuzi vi ehje sumafilo ju."
+  },
+  "apiKey": "f9784a707c2b77bf0a93b9b21b7c1713e1a687cc1a93be3a9c343409aefe6dab",
+  "currency": {
+    "code": "UYU",
+    "name": "Uruguay Peso"
+  }
+}
