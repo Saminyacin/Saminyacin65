@@ -1,0 +1,26 @@
+{
+  "name": "Blanche Patrick",
+  "age": 48,
+  "address": {
+    "street": "Baej Park",
+    "city": "Icazazve",
+    "state": "OK",
+    "zip": "24970"
+  },
+  "contact": {
+    "phone": "(530) 941-5886",
+    "servicePhone": "800268283"
+  },
+  "birthday": "1982-03-02T09:36:09.128Z",
+  "ip": "25.83.255.211",
+  "foo": "bar",
+  "profile": {
+    "about": "Riw nod po abo je de uveabe filpoasu zapedwu elihan hev bowtik. Tone kutum mosicwi cirdem fowataw pibefoh jufhado ta vuvo ifdegho ciwu panujikuk ape lance wuwan. Iwu galkeli date gimo erkuak og geme liphivo tipvigguh tirok hapa susi dov.",
+    "bio": "Opeh leojuman sih wi ka elu holpo hibahcu coflu ritec bahne he su ve. Gulece hecelago hec ubre lip eca jognic ku aso tusetak ekuwen foj vuwib ed nek ti atu liwuwo. Vi fizun viz urvejo poez her eci bidofdo cu mak gepfandar de tij atsuv iludoha wikgibaf go. Uj heg ovreiza ehafikus ehu tesun idpu bolruih war wu uk omaga ro wi eduzilug."
+  },
+  "apiKey": "96b4d7055185f467910cd041337fc766cbce3c45ab700009a42e1aa13f66b2c5",
+  "currency": {
+    "code": "ILS",
+    "name": "Israel Shekel"
+  }
+}
